@@ -1,5 +1,5 @@
 {
-    "name": "od-eks-dev-02",
+    "name": "eks-dev-03",
     "env": "dev",
     "spec": {
         "variables" : {
